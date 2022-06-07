@@ -1,17 +1,9 @@
-<p>
-My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes may give a head start if you are stuck somewhere! 
-</p>
-<p>
- If you have better code (I like readable code rather than short liner), send pull request. 
- </p>
+
  <p>
  Challenges can be found here <a href="https://www.hackerrank.com/domains/python">https://www.hackerrank.com/domains/python</a>
 </p>
 <p>Bonus: I have created Hackerrank_Solution_Blank_File_Creator.py to generate the blank file of each challenges. Have a look in <b>HackerrankUtility</b> folder.</p>
-<hr>
-<b>Hackerrank Python Domain</b>
 
-![alt Hackerrank Python Domain](https://raw.githubusercontent.com/arsho/Hackerrank_Python_Domain_Solutions/master/Hackerrank_Python_Domain.png)
 
 <hr>
 <b>Solutions listed in Hackerrank_Python_Domain_Solutions</b>
@@ -151,22 +143,4 @@ My solutions of <strong>Hackerrank Python Domain</strong> challenges. The codes 
 <hr>
 
 
-<h3>
-<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to use HackerrankUtility:
-</h3>
-<ol>
-<li>Open <b>Hackerrank_Solution_Blank_File_Creator.py</b> and edit the author name.</li>
-<li>Save and run the file.</li>
-<li>Blank file to create your solution for each challenge will be created in relevent subdomain.</li>
-</ol>
-<hr>
-<b>Watch demonstration process in <a href="https://youtu.be/G3hq5upfPEI">Youtube link here (Hackerrank Solution Blank File Creator DEMO)
 
-[![https://youtu.be/G3hq5upfPEI](http://img.youtube.com/vi/G3hq5upfPEI/0.jpg)](https://youtu.be/G3hq5upfPEI)
-
-</a></b>
-<h3>Enjoy!</h3>
-
-## Contact
-
-If you want to contact me you can reach me at [arshovon.com](https://arshovon.com/).
